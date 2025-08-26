@@ -1,8 +1,9 @@
 # cpp basics
 “C++ fundamentals for beginners: variables, loops, conditionals, arrays, functions, and switch-case logic.”
 
-🚀 C++ Basics
-A beginner-friendly collection of C++ programs covering:
+# 🚀 C++ Basics
+
+# A beginner-friendly collection of C++ programs covering:
 
 1.Variables & Data Types
 
@@ -14,8 +15,8 @@ A beginner-friendly collection of C++ programs covering:
 
 3.Functions & Operators
 
-📂 Structure
+# 📂 Structure
 Each file focuses on a single concept with clear examples and comments.
 
-💻 How to Run
+# 💻 How to Run
 Open in VS Code, compile with MinGW/GCC, or use tasks.json for automation.
