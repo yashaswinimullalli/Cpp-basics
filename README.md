@@ -15,6 +15,8 @@
 
 3.Functions & Operators
 
+4.Patterns
+
 # 📂 Structure
 Each file focuses on a single concept with clear examples and comments.
 
